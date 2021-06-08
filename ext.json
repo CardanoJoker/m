@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Gotham City",
+		"social": {
+			"twitter_handle": "CardanoJoker"
+		},
+    "company": {
+			"name": "JOKER"
+    },
+		"about": {
+			"me": "Join the Jokerz now! 0% fee and 340 ADA fixed fee split to delegators",
+			"server": "24/7/365 extremely secure hideout"
+		}
+	},
+	"my-pool-ids": {
+		"0": ""
+	}
+}
