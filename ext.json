@@ -2,7 +2,7 @@
 	"info": {
 		"url_png_icon_64x64": "",
 		"url_png_logo": "",
-		"location": "Gotham City",
+		"location": "Crypto City",
 		"social": {
 			"twitter_handle": "CardanoJoker"
 		},
@@ -15,6 +15,6 @@
 		}
 	},
 	"my-pool-ids": {
-		"0": ""
+		"0": "d03dfd66fa5560fa43c8fc524f76299d05102f6a297e2fba2bfa5b9a"
 	}
 }
