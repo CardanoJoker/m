@@ -6,15 +6,15 @@
 		"social": {
 			"twitter_handle": "CardanoJoker"
 		},
-    "company": {
-			"name": "JOKER"
-    },
-		"about": {
-			"me": "Join the Jokerz now! 0% fee and 340 ADA fixed fee split to delegators",
+        "about": {
+			"me": "Join the Jokerz now! 0% fee, 340 ADA fixed fee split to the gang and many more rewards!",
 			"server": "24/7/365 extremely secure hideout"
 		}
 	},
-	"my-pool-ids": {
+	 "my-pool-ids": {
 		"0": "d03dfd66fa5560fa43c8fc524f76299d05102f6a297e2fba2bfa5b9a"
-	}
+	},
+	 "when-satured-then-recommend": {
+                "0": "small pools - support decentralization"
+        }
 }
